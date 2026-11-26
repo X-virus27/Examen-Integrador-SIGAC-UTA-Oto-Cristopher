@@ -132,5 +132,4 @@ java -cp bin app.Main --todo
 
 - [Matriz de pruebas y resultados esperados](docs/matriz-pruebas.md)
 - [Registro de contribuciones individuales en GitHub](docs/contribuciones.md)
-- [Guía de comprobación individual (Sección 8)](docs/guia-defensa-individual.md)
 - [Instrucciones para capturas de evidencia](docs/capturas/README_CAPTURAS.md)
