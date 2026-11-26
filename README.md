@@ -3,7 +3,7 @@
 **Universidad Técnica de Ambato** — Facultad de Ingeniería en Sistemas, Electrónica e Industrial (FISEI)  
 **Carrera:** Ingeniería en Software (Tercer Nivel)  
 **Asignatura:** Estructura de Datos — Examen Práctico Integrador  
-**Autor:** Cristopher Raúl Oto Cundulle *(Modalidad individual)*  
+**Autor:** Cristopher Raúl Oto Cundulle  
 **Lenguaje:** Java 17+ (sin bibliotecas externas ni colecciones prohibidas)
 
 ---
@@ -32,11 +32,8 @@ SIGAC-UTA/
 ├── docs/
 │   ├── matriz-pruebas.md
 │   ├── contribuciones.md
-│   ├── guia-defensa-individual.md
 │   └── capturas/
 │       └── README_CAPTURAS.md
-├── scripts/
-│   └── subir_commits_github.bat
 └── src/
     ├── app/
     │   └── Main.java

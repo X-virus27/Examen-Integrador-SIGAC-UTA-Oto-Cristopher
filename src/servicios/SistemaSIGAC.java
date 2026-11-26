@@ -11,7 +11,6 @@ import estructuras.VectorDinamico;
 import modelo.EquipoLaboratorio;
 import modelo.Estudiante;
 import modelo.OperacionHistorial;
-import modelo.RecomendacionContacto;
 import modelo.SolicitudLaboratorio;
 
 /**
